@@ -222,3 +222,6 @@ Fonctionnement :
 3. Il génère dynamiquement des "Call Files" (.call) qu'il place dans le dossier `/var/spool/asterisk/outgoing/`.
 4. Asterisk initie alors automatiquement l'appel vers le contact. Dès que celui-ci décroche, il est directement mis en relation avec le SVI (numéro 800).
 5. Une temporisation de 15 secondes est incluse entre chaque appel.
+
+
+
